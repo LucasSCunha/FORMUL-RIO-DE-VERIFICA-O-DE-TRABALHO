@@ -45,4 +45,4 @@ README.md     ← Este arquivo
 
 ## Licença
 
-Uso interno — CEMIG / G&R Consultoria.
+Uso interno — CEMIG.
