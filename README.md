@@ -1,6 +1,6 @@
 # Formulário de Verificação de Cumprimento das Instruções de Trabalho
 
-**IT-RD 00072 / IT-RD 00075 — Versão 4**
+**IT-RD 00072 / IT-RD 00075**
 
 Checklist digital para verificação de conformidades técnicas de armazenamentos e acondicionamentos de materiais em depósitos CEMIG.
 
@@ -16,32 +16,15 @@ Checklist digital para verificação de conformidades técnicas de armazenamento
 - **Resumo em tempo real** com contadores e barra de progresso
 - **Identificação completa** do depósito: número, nome, almoxarife, endereço, cidade, data, regional, gestor, inventariado por e período
 - **Assinaturas** com campos de matrícula (Cemig, Auditoria, Almoxarife)
-- **Auto-save** via localStorage (dados persistem no navegador)
+- **Auto-save** via localStorage
 - **Exportação para Excel** (.xlsx)
-- **Impressão / PDF** otimizada com CSS de impressão
-- **Responsivo** — funciona em desktop, tablet e celular
+- **Impressão / PDF** otimizada
 
 ## Como usar
 
-Acesse online via GitHub Pages:
+Acesse online:
 
 **[https://lucasscunha.github.io/FORMUL-RIO-DE-VERIFICA-O-DE-TRABALHO/](https://lucasscunha.github.io/FORMUL-RIO-DE-VERIFICA-O-DE-TRABALHO/)**
-
-Ou abra o arquivo `index.html` diretamente no navegador.
-
-## Tecnologias
-
-- HTML5 / CSS3 / JavaScript (vanilla)
-- [SheetJS (xlsx)](https://sheetjs.com/) — exportação para Excel
-- IBM Plex Sans / IBM Plex Mono — tipografia
-- LocalStorage API — persistência local
-
-## Estrutura
-
-```
-index.html    ← Formulário completo (arquivo único, standalone)
-README.md     ← Este arquivo
-```
 
 ## Licença
 
